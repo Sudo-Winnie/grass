@@ -113,7 +113,7 @@ async def connect_to_wss(user_id, logger):
 
 
 async def main(logger):
-    _user_id = '2gxV6b5xWXwFac55zt55B4TFdJ6'
+    _user_id = '2o6q6nMkpbS8nklI1jEJfTJiOvG'
     await connect_to_wss(_user_id, logger)
 
 
