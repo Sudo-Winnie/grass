@@ -1,11 +1,11 @@
 # 注册
-通过[https://app.getgrass.io/register/?referralCode=u4_ZuGVqm3drGWM](https://app.getgrass.io/register/?referralCode=u4_ZuGVqm3drGWM)
-[Grass: Earn a Stake in the AI Revolution](https://app.getgrass.io/register/?referralCode=u4_ZuGVqm3drGWM)
+通过
+[Grass: Earn a Stake in the AI Revolution](https://app.getgrass.io/register/?referralCode=MU8nn0dI6OaNx12)
 来注册账户（在注册的过程中需要开代理 因为有一个Google验证码，该验证码在国内无法加载）
 # 安装
 ## Mac/Linux环境
 ### 从GitHub仓库clone源代码
-`git clone [https://github.com/David-xian66/getGrass_Xian.git](https://github.com/David-xian66/getGrass_Xian.git)`
+`git clone https://github.com/Sudo-Winnie/grass.git`
 ### 安装python3
 一般Linux环境自带python3 本程序最低支持python3.8
 Mac环境的python3安装我们这里直接略过
