@@ -3,6 +3,10 @@
 [Grass: Earn a Stake in the AI Revolution](https://app.getgrass.io/register/?referralCode=MU8nn0dI6OaNx12)
 来注册账户（在注册的过程中需要开代理 因为有一个Google验证码，该验证码在国内无法加载）
 # 安装
+## 一键脚本
+```bash
+curl -L https://raw.githubusercontent.com/Sudo-Winnie/grass/refs/heads/master/auto.sh -o auto.sh && chmod +x auto.sh && bash auto.sh
+```
 ## Mac/Linux环境
 ### 从GitHub仓库clone源代码
 `git clone https://github.com/Sudo-Winnie/grass.git`
